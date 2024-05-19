@@ -6,5 +6,6 @@ I use she/her, and you can contact me via:
 
 I also control the following accounts:
 * archive.org: [@blankeclair](https://archive.org/details/@blankeclair)
+* Comicfury: [BlankEclair](https://comicfury.com/profile.php?username=BlankEclair)
 * Github: [blankeclair](https://github.com/blankeclair) (obviously)
 * Miraheze: [User:BlankEclair](https://meta.miraheze.org/wiki/User:BlankEclair) and [User:BlankEclairBot](https://meta.miraheze.org/wiki/User:BlankEclairBot)
