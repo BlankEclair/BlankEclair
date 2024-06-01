@@ -10,3 +10,4 @@ I also control the following accounts:
 * **Comicfury:** [BlankEclair](https://comicfury.com/profile.php?username=BlankEclair)
 * **Github:** [BlankEclair](https://github.com/BlankEclair) (obviously)
 * **Miraheze:** [User:BlankEclair](https://meta.miraheze.org/wiki/User:BlankEclair) and [User:BlankEclairBot](https://meta.miraheze.org/wiki/User:BlankEclairBot)
+* **Wikimedia:** [User:BlankEclair](https://meta.wikimedia.org/wiki/User:BlankEclair)
