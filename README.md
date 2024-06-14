@@ -9,5 +9,6 @@ I also control the following accounts:
 * **Average Codestuff:** [BlankEclair](https://git.average.name/BlankEclair)
 * **Comicfury:** [BlankEclair](https://comicfury.com/profile.php?username=BlankEclair)
 * **Github:** [BlankEclair](https://github.com/BlankEclair) (obviously)
+* **Libera Chat:** BlankEclair
 * **Miraheze:** [User:BlankEclair](https://meta.miraheze.org/wiki/User:BlankEclair) and [User:BlankEclairBot](https://meta.miraheze.org/wiki/User:BlankEclairBot)
 * **Wikimedia:** [User:BlankEclair](https://meta.wikimedia.org/wiki/User:BlankEclair)
