@@ -7,10 +7,11 @@ from urllib.parse import unquote
 import requests
 
 try:
-    _, api_endpoint, username, summary, image_folder, image_offset = sys.argv
+    _, api_endpoint, username, summary, requests_per_minute, image_folder, image_offset = sys.argv
+    requests_per_minute = int(requests_per_minute)
     image_offset = int(image_offset)
 except ValueError:
-    print(f"Usage: {sys.argv[0]} <api endpoint> <username> <summary> <image folder> <image offset>", file=sys.stderr)
+    print(f"Usage: {sys.argv[0]} <api endpoint> <username> <summary> <requests per minute> <image folder> <image offset>", file=sys.stderr)
     sys.exit(1)
 
 session = requests.Session()
@@ -94,3 +95,8 @@ for file_offset in range(image_offset - 1, len(files)):
     print(f"[{file_offset + 1}/{len(files)}] {file_name}")
 
     csrf_token = upload(csrf_token, file_name)
+
+    if requests_per_minute:
+        sleep_time = 60 / requests_per_minute
+        print(f"[*] Sleeping for {sleep_time:.2f}s to get a {requests_per_minute}/min request rate")
+        time.sleep(sleep_time)
