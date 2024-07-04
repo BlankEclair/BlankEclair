@@ -68,6 +68,9 @@ def upload(csrf_token: str, file_name: str, refetched_csrf: bool = False, rateli
         time.sleep(60)
         print("[*] Reattempting upload...")
         return upload(csrf_token, file_name, refetched_csrf, True)
+    elif "error" in json and json["error"]["code"] == "fileexists-no-change":
+        print("[*] The same image already exists")
+        return csrf_token
 
     try:
         assert json["upload"]["result"] == "Success"
