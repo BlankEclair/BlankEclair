@@ -3,7 +3,7 @@ Hello! My username is BlankEclair, but you can call me Claire, <s>and I get to p
 I use she/her, and you can contact me via:
 * **Matrix:** [@blankeclair:catgirl.cloud](https://matrix.to/#/@blankeclair:catgirl.cloud)
 * **IRC:** BlankEclair at libera.chat
-* **Email:** &lt;my username&gt;@blankeclair.slmail.me
+* **Email:** &lt;my username&gt;@disroot.org
 
 I also control the following accounts:
 * **archive.org:** [@blankeclair](https://archive.org/details/@blankeclair)
