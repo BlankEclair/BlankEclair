@@ -9,7 +9,7 @@ I also control the following accounts:
 * **archive.org:** [@blankeclair](https://archive.org/details/@blankeclair)
 * **Average Codestuff:** [BlankEclair](https://git.average.name/BlankEclair)
 * **Comicfury:** [BlankEclair](https://comicfury.com/profile.php?username=BlankEclair)
-* **Fediverse:** [@BlankEclair@transfem.social](https://transfem.social/@BlankEclair) and [@BlankEclair@catgirl.center](https://catgirl.center/@BlankEclair)
+* **Fediverse:** [@BlankEclair@catgirl.center](https://catgirl.center/@BlankEclair) (also formerly [@BlankEclair@transfem.social](https://transfem.social/@BlankEclair))
 * **Github:** [BlankEclair](https://github.com/BlankEclair) (obviously)
 * **Miraheze:** [User:BlankEclair](https://meta.miraheze.org/wiki/User:BlankEclair), [User:BlankEclairBot](https://meta.miraheze.org/wiki/User:BlankEclairBot), and [User:BlankEclaire](https://meta.miraheze.org/wiki/User:BlankEclaire)
 * **Wikimedia:** [User:BlankEclair](https://meta.wikimedia.org/wiki/User:BlankEclair)
