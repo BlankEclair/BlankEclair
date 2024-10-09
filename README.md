@@ -13,3 +13,5 @@ I also control the following accounts:
 * **Github:** [BlankEclair](https://github.com/BlankEclair) (obviously)
 * **Miraheze:** [User:BlankEclair](https://meta.miraheze.org/wiki/User:BlankEclair), [User:BlankEclairBot](https://meta.miraheze.org/wiki/User:BlankEclairBot), and [User:BlankEclaire](https://meta.miraheze.org/wiki/User:BlankEclaire)
 * **Wikimedia:** [User:BlankEclair](https://meta.wikimedia.org/wiki/User:BlankEclair)
+
+My GPG key is `8866 53BF BBA3 1BC2 4904  2484 6F08 77E2 8B7F E933`
